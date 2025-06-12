@@ -1,0 +1,15 @@
+
+# ----------------
+# Node.js
+# ----------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Ignore local .env files but not example ones
+.env
+
+# Ignore SQLite database files
+bank.sqlite
